@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+
+.cache
+.coverage
+build
+dist
+*.egg-info
+tmp/
+.DS_Store
+*.swp
+.eggs
+*.gfs
+.venv
+.direnv
